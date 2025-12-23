@@ -26,7 +26,7 @@
 - Automated incident response setup
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=silentveil&show_icons=true&theme=default)
+![Renaldi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=silentveil&show_icons=true&theme=dark)
 
 ## 🎯 Currently Learning
 - AWS Cloud Practitioner preparation
