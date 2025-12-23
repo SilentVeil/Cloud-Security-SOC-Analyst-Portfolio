@@ -8,6 +8,9 @@
 **Core Services:** EC2, S3, VPC, Lambda, CloudWatch  
 **Automation:** Python, AWS CLI, Basic Shell Scripting  
 **Concepts:** Least Privilege, Defense in Depth, Network Segmentation, Encryption at Rest & Transit
+![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
 
 ## 📂 Featured Projects
 ### 🔐 [AWS IAM Security Lab](https://github.com/renaldi136/aws-iam-lab)
