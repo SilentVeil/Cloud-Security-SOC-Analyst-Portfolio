@@ -1,7 +1,16 @@
 # 👋 Hi, I'm Renaldi | Cloud Security Analyst Learner
 
-🔐 Building security-first cloud infrastructure | AWS | Incident Response | Security Monitoring
+![AWS](https://img.shields.io/badge/AWS-Cloud_Security-FF9900)
+![Python](https://img.shields.io/badge/Python-Security_Automation-3776AB)
+![Career Change](https://img.shields.io/badge/Career-Transition-8A2BE2)
 
+🔐 Transitioning from banking to cloud security | AWS re/Start Graduate | Building hands-on portfolio
+
+## 📊 Quick Stats
+- **5+** AWS Security Labs
+- **6** Industry Certifications  
+- **4-month** Accelerated Learning
+- **100%** Hands-on Projects
 
 
 ## 🔥 Cloud Security Portfolio
@@ -58,9 +67,10 @@ I built this while taking my first Python course in October 2025, with no prior 
 *Bringing unique perspective from digital marketing: business impact analysis, GDPR compliance experience, and translating technical risks to business stakeholders.*
 
 ## 🎯 Currently
-- Enhancing cloud security portfolio with hands-on projects
-- Preparing for AWS Security Specialty certification
-- Exploring DevSecOps and security automation
+- 🔐 AWS Security Specialty preparation
+- 🤖 Building security automation scripts
+- 💼 Seeking Cloud Security Analyst roles
+
 
 ## 📫 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/renaldi-tan)
