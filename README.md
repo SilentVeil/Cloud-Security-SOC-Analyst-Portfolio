@@ -41,6 +41,16 @@
 **Automation:** Python, AWS CLI, Terraform (basic), Shell Scripting  
 **Concepts:** Least Privilege, Defense-in-Depth, Zero Trust, Compliance (SOC 2, GDPR, PCI DSS)
 
+## 🚀 Career Transition Journey
+**From:** Digital Marketing & Customer Service Officer (3+ years experience)  
+**To:** Cloud Security Analyst  
+**Started Cloud Journey:** October 2025  
+**Accomplished in 4 Months:**
+- 6 industry certifications including Palo Alto Cloud Security & Cisco Ethical Hacker
+- 5 hands-on cloud security labs covering IAM, VPC, Monitoring, Forensics, and Hardening
+- AWS re/Start graduate | Currently preparing for AWS Certified Security Specialty
+
+*Bringing unique perspective from digital marketing: business impact analysis, GDPR compliance experience, and translating technical risks to business stakeholders.*
 
 ## 🎯 Currently
 - Enhancing cloud security portfolio with hands-on projects
