@@ -65,6 +65,13 @@ I built this while taking my first Python course in October 2025, with no prior 
 **Automation:** Python, AWS CLI, Terraform (basic), Shell Scripting  
 **Concepts:** Least Privilege, Defense-in-Depth, Zero Trust, Compliance (SOC 2, GDPR, PCI DSS)
 
+## 🏆 Certifications
+- ✅ **AWS Certified Cloud Practitioner** (Jan 2026)
+- ✅ AWS re/Start Graduate (Dec 2025)
+- ✅ Palo Alto Networks: Cloud Security Fundamentals
+- ✅ Cisco: Introduction to Cybersecurity
+- ✅ Cisco Ethical Hacker Essentials
+
 ## 🚀 Career Transition Journey
 **From:** Digital Marketing & Customer Service Officer (3+ years experience)  
 **To:** Cloud Security Analyst  
