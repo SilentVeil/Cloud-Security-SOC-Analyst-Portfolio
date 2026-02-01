@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Renaldi | Cloud Security Learner
+# 👋 Hi, I'm Renaldi | Cloud Security 
 
 ![AWS](https://img.shields.io/badge/AWS-Cloud_Security-FF9900)
 ![Python](https://img.shields.io/badge/Python-Security_Automation-3776AB)
