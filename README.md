@@ -40,20 +40,20 @@
 
 ### ⭐⭐⭐Phase 3: SOC & Threat Analysis ( On Progress )
 
-### [08-SOC Homelab: Wazuh SIEM & Threat Detection](https://github.com/SilentVeil/aws-cloud-security/tree/main/SOC-Threat-Analysis/01-Wazuh-SIEM)
+### [06-SOC Homelab: Wazuh SIEM & Threat Detection](https://github.com/SilentVeil/aws-cloud-security/tree/main/SOC-Threat-Analysis/01-Wazuh-SIEM)
 **Enterprise SIEM Deployment** - Full Wazuh SIEM stack with custom detection rules, alert triage, and threat intelligence integration.
 
-### [09-Phishing Email Forensics Lab](https://github.com/SilentVeil/aws-cloud-security/tree/main/SOC-Threat-Analysis/02-Phishing-Investigation)
+### [07-Phishing Email Forensics Lab](https://github.com/SilentVeil/aws-cloud-security/tree/main/SOC-Threat-Analysis/02-Phishing-Investigation)
 **Email Security Analysis** - Complete phishing investigation from header analysis (MXToolbox) to IOC validation (VirusTotal) and reporting.
 
-### [10-Network Forensics with Wireshark](https://github.com/SilentVeil/aws-cloud-security/tree/main/SOC-Threat-Analysis/03-Network-Forensics)
+### [08-Network Forensics with Wireshark](https://github.com/SilentVeil/aws-cloud-security/tree/main/SOC-Threat-Analysis/03-Network-Forensics)
 **Malware Traffic Analysis** - PCAP investigation of C2 beaconing, data exfiltration, and threat hunting with tshark automation.
 
-### [11-Splunk Detection Engineering](https://github.com/SilentVeil/aws-cloud-security/tree/main/SOC-Threat-Analysis/04-Splunk-Detections)
+### [09-Splunk Detection Engineering](https://github.com/SilentVeil/aws-cloud-security/tree/main/SOC-Threat-Analysis/04-Splunk-Detections)
 **Security Monitoring Queries** - Custom Splunk SPL for brute force detection, suspicious account creation, and compliance monitoring.
 
 ### Bonus:
-###  [12-My First Python Project: Caesar Cipher](https://github.com/SilentVeil/First-python-project/tree/main)
+###  [10-My First Python Project: Caesar Cipher](https://github.com/SilentVeil/First-python-project/tree/main)
 **This Caesar Cipher encryption program is the first real code I ever wrote in Python.**
 I built this while taking my first Python course in October 2025, with no prior programming experience.
 
@@ -95,8 +95,26 @@ I built this while taking my first Python course in October 2025, with no prior 
 - 5 hands-on cloud security labs covering IAM, VPC, Monitoring, Forensics, and Hardening
 - AWS re/Start graduate | Currently preparing for AWS Certified Security Specialty
 
-*Bringing unique perspective from digital marketing: business impact analysis, GDPR compliance experience, and translating technical risks to business stakeholders.*
+## 📂 Repository Structure
 
+```
+AWS Cloud Security & SOC Portfolio/
+├── 🔐 Cloud Security Labs
+│   ├── 01-IAM Security Lab
+│   ├── 02-VPC Security Architecture  
+│   ├── 03-Security Monitoring & Compliance
+│   ├── 04-CloudTrail Forensics
+│   └── 05-AWS Security Hardening Suite
+├── 🔍 SOC & Threat Analysis
+│   ├── 01-Wazuh SIEM Homelab
+│   ├── 02-Phishing Email Forensics
+│   ├── 03-Network Forensics (Wireshark)
+│   └── 04-Splunk Detection Engineering
+├── ⚙️ Tools & Scripts
+│   ├── cloud-security-automation/
+│   └── soc-analysis-scripts/
+└── 📄 README.md
+```
 ## 🎯 Currently
 - 🔐 AWS Security Specialty preparation
 - 🤖 Building security automation scripts
