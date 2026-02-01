@@ -1,17 +1,19 @@
-# 👋 Hi, I'm Renaldi | Cloud Security 
+# 👋 Hi, I'm Renaldi | Cloud Security & SOC Analyst Portfolio
 
 ![AWS](https://img.shields.io/badge/AWS-Cloud_Security-FF9900)
-![Python](https://img.shields.io/badge/Python-Security_Automation-3776AB)
+![SOC](https://img.shields.io/badge/SOC-Threat_Analysis-0066CC)          
+![SIEM](https://img.shields.io/badge/SIEM-Wazuh%2FSplunk-28A745)         
 ![Career Change](https://img.shields.io/badge/Career-Transition-8A2BE2)
 
-🔐 Transitioning from banking to cloud security | AWS re/Start Graduate | Building hands-on portfolio
+🔐 Transitioning from banking to **cloud security & SOC analysis** | AWS re/Start Graduate | **Building hands-on portfolio in cloud security, threat detection, and incident response**
 
 ## 📊 Quick Stats
 - **5+** AWS Security Labs
 - **6** Industry Certifications  
 - **5-month** Accelerated Learning
 - **100%** Hands-on Projects
-
+- **3** SOC/Threat Analysis Projects 
+- **24/7** SIEM Monitoring Homelab 
 
 ## 🔥 Cloud Security Portfolio | Learning Progression
 
@@ -36,11 +38,22 @@
 ###  [05-AWS Security Hardening Suite](https://github.com/SilentVeil/AWS-security-hardening-suite)
 **Defense-in-Depth Security Implementation** - Comprehensive collection of 4 security labs covering system hardening, data protection, network firewall, and vulnerability management across AWS infrastructure layers.
 
-### ⭐⭐⭐Phase 3: Automation & Scale ⭐ On Progress
-**Security Automation Pipeline** - Terraform + Lambda auto-remediation
+### ⭐⭐⭐Phase 3: SOC & Threat Analysis ( On Progress )
+
+### [08-SOC Homelab: Wazuh SIEM & Threat Detection](https://github.com/SilentVeil/aws-cloud-security/tree/main/SOC-Threat-Analysis/01-Wazuh-SIEM)
+**Enterprise SIEM Deployment** - Full Wazuh SIEM stack with custom detection rules, alert triage, and threat intelligence integration.
+
+### [09-Phishing Email Forensics Lab](https://github.com/SilentVeil/aws-cloud-security/tree/main/SOC-Threat-Analysis/02-Phishing-Investigation)
+**Email Security Analysis** - Complete phishing investigation from header analysis (MXToolbox) to IOC validation (VirusTotal) and reporting.
+
+### [10-Network Forensics with Wireshark](https://github.com/SilentVeil/aws-cloud-security/tree/main/SOC-Threat-Analysis/03-Network-Forensics)
+**Malware Traffic Analysis** - PCAP investigation of C2 beaconing, data exfiltration, and threat hunting with tshark automation.
+
+### [11-Splunk Detection Engineering](https://github.com/SilentVeil/aws-cloud-security/tree/main/SOC-Threat-Analysis/04-Splunk-Detections)
+**Security Monitoring Queries** - Custom Splunk SPL for brute force detection, suspicious account creation, and compliance monitoring.
 
 ### Bonus:
-###  [07-My First Python Project: Caesar Cipher](https://github.com/SilentVeil/First-python-project/tree/main)
+###  [12-My First Python Project: Caesar Cipher](https://github.com/SilentVeil/First-python-project/tree/main)
 **This Caesar Cipher encryption program is the first real code I ever wrote in Python.**
 I built this while taking my first Python course in October 2025, with no prior programming experience.
 
@@ -64,6 +77,7 @@ I built this while taking my first Python course in October 2025, with no prior 
 **Infrastructure:** EC2, S3, Lambda, RDS, Route 53  
 **Automation:** Python, AWS CLI, Terraform (basic), Shell Scripting  
 **Concepts:** Least Privilege, Defense-in-Depth, Zero Trust, Compliance (SOC 2, GDPR, PCI DSS)
+**Blue Team Operations:** Threat Intelligence, Incident Response, Digital Forensics, IOC Analysis
 
 ## 🏆 Certifications
 - ✅ **AWS Certified Cloud Practitioner** (Jan 2026)
@@ -86,7 +100,7 @@ I built this while taking my first Python course in October 2025, with no prior 
 ## 🎯 Currently
 - 🔐 AWS Security Specialty preparation
 - 🤖 Building security automation scripts
-- 💼 Seeking Cloud Security Analyst roles
+- 💼 Seeking Cloud Security Analyst roles / SOC L1
 
 
 ## 📫 Connect
