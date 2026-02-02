@@ -49,7 +49,7 @@
 ### [08-Network Forensics with Wireshark](https://github.com/SilentVeil/aws-cloud-security/tree/main/SOC-Threat-Analysis/03-Network-Forensics)
 **Malware Traffic Analysis** - PCAP investigation of C2 beaconing, data exfiltration, and threat hunting with tshark automation.
 
-### [09-Splunk Incident Response Lab](https://github.com/SilentVeil/aws-cloud-security/tree/main/SOC-Threat-Analysis/04-Splunk-Detections)
+### [09-Splunk Incident Response Lab](https://github.com/SilentVeil/splunk-incident-response-lab/tree/main)
 **Security Monitoring Queries** - Custom Splunk SPL for brute force detection, suspicious account creation, and compliance monitoring.
 
 ### Bonus:
