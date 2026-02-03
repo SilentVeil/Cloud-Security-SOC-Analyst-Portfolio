@@ -43,7 +43,7 @@
 ### [06-SOC Homelab: Wazuh SIEM & Threat Detection](https://github.com/SilentVeil/wazuh-siem-homelab)
 **Enterprise SIEM Deployment** - Full Wazuh SIEM stack with custom detection rules, alert triage, and threat intelligence integration.
 
-### [07-Phishing Email Forensics Lab](https://github.com/SilentVeil/aws-cloud-security/tree/main/SOC-Threat-Analysis/02-Phishing-Investigation)
+### [07-Phishing Email Forensics Lab](https://github.com/SilentVeil/phishing-email-analysis-lab)
 **Email Security Analysis** - Complete phishing investigation from header analysis (MXToolbox) to IOC validation (VirusTotal) and reporting.
 
 ### [08-Network Forensics with Wireshark](https://github.com/SilentVeil/aws-cloud-security/tree/main/SOC-Threat-Analysis/03-Network-Forensics)
