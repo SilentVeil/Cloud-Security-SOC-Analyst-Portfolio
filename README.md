@@ -46,7 +46,7 @@
 ### [07-Phishing Email Forensics Lab](https://github.com/SilentVeil/phishing-email-analysis-lab)
 **Email Security Analysis** - Complete phishing investigation from header analysis (MXToolbox) to IOC validation (VirusTotal) and reporting.
 
-### [08-Network Forensics with Wireshark](https://github.com/SilentVeil/aws-cloud-security/tree/main/SOC-Threat-Analysis/03-Network-Forensics)
+### [08-Network Forensics with Wireshark](https://github.com/SilentVeil/network-forensics-lab)
 **Malware Traffic Analysis** - PCAP investigation of C2 beaconing, data exfiltration, and threat hunting with tshark automation.
 
 ### [09-Splunk Incident Response Lab](https://github.com/SilentVeil/splunk-incident-response-lab/tree/main)
